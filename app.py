@@ -9,6 +9,7 @@ import requests
 
 
 
+
 class RapidOCRTextExtractor:
     def __init__(self, pdf_url):
         self.pdf_url = pdf_url
